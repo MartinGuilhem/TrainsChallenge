@@ -15,4 +15,5 @@ Example:
 
 ## TESTING
 Integration test taking and comparing results of the shortestPaths of the CalculateMinimumDistance method within the calculateShortestPathFromSource method.
-To run the Tests you must enter:     "  mvn clean test  "
+
+To run the Tests you must enter:     "  mvn clean test  "    from console
