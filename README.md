@@ -14,6 +14,6 @@ Example:
 * If the user is in station B, they must put:     mvn exec:java -Dexec.mainClass="main.mainApp" -Dexec.args="B"
 
 ## TESTING
-Integration test taking and comparing results of the shortestPaths of the CalculateMinimumDistance method within the calculateShortestPathFromSource method.
+Integration test taking and comparing results of the shortestPaths of the CalculateMinimumDistance method within the calculateShortestPathFromSource.
 
 To run the Tests you must enter:     "  mvn clean test  "    from console
