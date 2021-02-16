@@ -2,6 +2,8 @@
 
 ## REQUERIMENTS:
 You must have MAVEN installed on your computer.
+https://maven.apache.org/download.cgi
+
 
 ## DESCRIPTION:
 This application serves to inform users who are in a certain train station information about the possible destinations to which they can visit, providing the shortest distance routes to each destination they wish to visit.
